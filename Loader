@@ -1,0 +1,2 @@
+if game.PlaceId == 9498006165 then -- Tapping Simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/AstralityScript/Scripts/main/Tapping%20Simulator'))()
